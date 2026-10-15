@@ -11,6 +11,7 @@ This repository contains the production portfolio. GitHub Pages publishes the ro
 - `index.html`: portfolio, including its application, fonts, and artwork.
 - `og-image.png`: social sharing preview.
 - `.nojekyll`: serve the static site directly.
+- `CNAME`: intended custom domain, `albertoancona.com`.
 - `robots.txt` and `sitemap.xml`: discovery metadata.
 
 The local version comparison and career assessment are not included in this deployment.
